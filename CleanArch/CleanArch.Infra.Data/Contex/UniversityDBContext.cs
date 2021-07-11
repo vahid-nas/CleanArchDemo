@@ -1,4 +1,4 @@
-﻿using CleanArch.
+﻿using CleanArch.Domain.Models;
 using Microsoft.EntityFrameworkCore;
 
 using System;
